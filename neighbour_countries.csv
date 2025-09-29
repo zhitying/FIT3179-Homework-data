@@ -1,1 +1,9 @@
-Country,Longitude,LatitudeThailand,100,13Singapore,104,1.3Brunei,115,4.5Indonesia,117,-2Philippines,122,12Vietnam,108,14Cambodia,105,12
+Country,Longitude,Latitude
+Thailand,101,7
+Singapore,104,1.3
+Brunei,115,4.8
+Indonesia,108,-2
+Philippines,121,11
+Vietnam,107,12
+Cambodia,104,12
+
