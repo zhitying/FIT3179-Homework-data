@@ -1,0 +1,60 @@
+State,Subarea,Latitude,Longitude,API_Level
+Johor,Johor Bahru,1.4556,103.7611,45
+Johor,Kluang,2.0336,103.3194,69
+Johor,Muar,2.05,102.5667,49
+Johor,Pasir Gudang,1.5028,103.9356,56
+Johor,Kulai,1.6667,103.6,36
+Johor,Segamat,2.5111,102.8139,65
+Johor,Batu Pahat,1.8522,102.9372,101
+Johor,Mersing,2.430917,103.836113,137
+Johor,Pontian,1.485561,103.387856,118
+Kedah,Sungai Petani,5.65,100.5,31
+Kedah,Alor Setar,6.1248,100.367821,39
+Kedah,Gurun,5.819947,100.47728,92
+Kedah,Kulim,5.38945,100.563431,69
+Kelantan,Kota Bharu,6.1333,102.25,91
+Kelantan,Tumpat,6.1667,102.1667,79
+Kelantan,Pasir Mas,6.043437,102.141991,64
+Kelantan,Kelantan City,6.127463,102.242287,125
+Kelantan,Gua Musang,4.884279,101.968178,138
+Melaka,Melaka Raya,2.1875,102.2552,115
+Melaka,Ayer Keroh,2.269908,102.2944891,104
+Melaka,Selandar,2.3894,102.3784,89
+Negeri Sembilan,Seremban,2.7222,101.9417,98
+Negeri Sembilan,Port Dickson,2.5167,101.8,49
+Negeri Sembilan,Kuala Pilah,2.7405,102.2489,88
+Pahang,Kuantan,3.8167,103.3333,37
+Pahang,Kuala Lipis,4.18433,102.05423,93
+Pahang,Bentong,3.522168,101.910355,124
+Pahang,Jerantut,3.937395,102.362038,73
+Pulau Pinang,Seberang Jaya,5.4083,100.3695,95
+Pulau Pinang,George Town,5.4144,100.3292,54
+Pulau Pinang,Bukit Mertajam,5.3655,100.4607,63
+Pulau Pinang,Bayan Lepas,5.2833,100.2667,131
+Pulau Pinang,Butterworth,5.3942,100.3664,102
+Perak,Ipoh,4.5972,101.075,99
+Perak,Taiping,4.85,100.7333,81
+Perak,Teluk Intan,4.0333,101.0167,101
+Perak,Batu Gajah,4.4667,101.05,145
+Perlis,Kangar,6.4333,100.2,80
+Perlis,Arau,6.429708,100.269844,93
+Sabah,Kota Kinabalu,5.975,116.0725,71
+Sabah,Sandakan,5.8333,118.1167,135
+Sabah,Lahad Datu,5.03,118.34,118
+Sabah,Keningau,5.3333,116.1667,100
+Sabah,Tuaran,6.1833,116.2333,111
+Sabah,Tawau,4.2583,117.8944,121
+Sabah,Kota Belud,6.353248,116.427879,68
+Sabah,Kudat,6.88684,116.82531,146
+Sarawak,Kuching,1.5575,110.3439,57
+Sarawak,Sibu,2.2878,111.8308,146
+Sarawak,Miri,4.3925,113.9861,136
+Sarawak,Bintulu,3.1733,113.0433,106
+Sarawak,Simanggang,1.2353,111.4697,94
+Selangor,Klang,3.0333,101.45,129
+Selangor,Petaling Jaya,3.0972,101.6444,141
+Selangor,Shah Alam,3.0722,101.5167,142
+Selangor,Kajang,2.9931,101.7889,90
+Selangor,Puchong,3.02534,101.617767,93
+Terengganu,Kuala Terengganu,5.3292,103.1361,82
+Terengganu,Cukai,4.2332,103.4479,77
